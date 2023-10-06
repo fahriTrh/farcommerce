@@ -3,6 +3,11 @@
 
 Welcome to Farcommerce, a web application created by fahriTrh. Farcommerce is designed with the user interface built using Tailwind CSS and the backend powered by Laravel, with the authentication and dashboard features provided by Laravel Breeze.
 
+![Screenshot (319)](https://github.com/fahriTrh/farcommerce/assets/141041101/0e143e01-6ebb-4eea-a2b3-d684d257d871)
+![Screenshot (320)](https://github.com/fahriTrh/farcommerce/assets/141041101/66f39b06-5b24-435a-9189-98403f84bde5)
+![Screenshot (321)](https://github.com/fahriTrh/farcommerce/assets/141041101/f111363e-ec6e-4d3d-8cb1-cc0356be6e48)
+![Screenshot (322)](https://github.com/fahriTrh/farcommerce/assets/141041101/bcc51165-182e-46b5-a410-d718d02ce1c8)
+
 ## Features
 Farcommerce comes with several features to enhance your e-commerce experience:
 
@@ -64,9 +69,4 @@ Thank you for using Farcommerce! We hope you find it useful for your e-commerce 
 ---
 
 *Disclaimer: The Farcommerce project is created for educational and learning purposes. It is not intended for production use without further development and security enhancements.*
-
-![Screenshot (319)](https://github.com/fahriTrh/farcommerce/assets/141041101/0e143e01-6ebb-4eea-a2b3-d684d257d871)
-![Screenshot (320)](https://github.com/fahriTrh/farcommerce/assets/141041101/66f39b06-5b24-435a-9189-98403f84bde5)
-![Screenshot (321)](https://github.com/fahriTrh/farcommerce/assets/141041101/f111363e-ec6e-4d3d-8cb1-cc0356be6e48)
-![Screenshot (322)](https://github.com/fahriTrh/farcommerce/assets/141041101/bcc51165-182e-46b5-a410-d718d02ce1c8)
 
